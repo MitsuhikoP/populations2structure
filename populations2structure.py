@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# copyright (c) 2021 Mitsuhiko Sato. All Rights Reserved.
+# copyright (c) 2022 Mitsuhiko Sato. All Rights Reserved.
 # Mitsuhiko Sato ( E-mail: mitsuhikoevolution@gmail.com )
 #coding:UTF-8
 
